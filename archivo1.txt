@@ -1,1 +1,2 @@
 archivo1 editado
+nuevo texto agregado en esta segunda linea
